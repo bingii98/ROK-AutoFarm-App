@@ -21,19 +21,6 @@ Rok Auto Farm là một ứng dụng tự động hóa các tác vụ trong trò
 - Tải về file `.exe` từ [Releases](https://github.com/bingii98/rok-auto-farm-app/releases)
 - Chạy file cài đặt và làm theo hướng dẫn
 
-#### Hoặc tự build từ mã nguồn:
-```bash
-# Clone repository
-git clone https://github.com/bingii98/rok-auto-farm-app.git
-cd rok-auto-farm-app
-
-# Cài đặt dependencies
-npm install
-
-# Chạy ứng dụng
-npm start
-```
-
 ## 🔄 Cập nhật tự động
 Mỗi khi có phiên bản mới, ứng dụng sẽ tự động tải và cập nhật.
 
