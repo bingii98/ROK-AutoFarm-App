@@ -1,40 +1,40 @@
 # Rok Auto Farm
 
-Rok Auto Farm là một ứng dụng tự động hóa các tác vụ trong trò chơi **Rise of Kingdoms**. Ứng dụng này sử dụng **Electron.js** để cung cấp giao diện đồ họa thân thiện, cho phép người dùng quản lý nhiều tài khoản và tự động hóa các nhiệm vụ trong game.
+Rok Auto Farm is an application designed to automate tasks in the **Rise of Kingdoms** game. This app leverages **Electron.js** to offer a user-friendly graphical interface, enabling users to manage multiple accounts and automate in-game tasks.
 
-## 📌 Tính năng chính
-- **Tự động nâng cấp công trình** 🏗️
-- **Tự động thu hoạch tài nguyên** ⛏️
-- **Tự động hoàn thành nhiệm vụ hàng ngày** ✅
-- **Hỗ trợ nhiều tài khoản** 👥
-- **Giao diện trực quan, dễ sử dụng** 🎨
-- **Hỗ trợ cập nhật tự động** 🔄
+## 📌 Main Features
+- **Automatic building upgrades** 🏗️
+- **Automatic resource harvesting** ⛏️
+- **Automatic daily task completion** ✅
+- **Multi-account support** 👥
+- **Intuitive, easy-to-use interface** 🎨
+- **Automatic updates** 🔄
 
-## 🚀 Cách cài đặt
-### 1️⃣ Yêu cầu hệ thống
+## 🚀 Installation Guide
+
+### 1️⃣ System Requirements
 - Windows 10/11 (64-bit)
-- **Node.js** và **npm** (hoặc **yarn**)
-- **ADB (Android Debug Bridge)** để kết nối với thiết bị
+- **Node.js** and **npm** (or **yarn**)
+- **ADB (Android Debug Bridge)** for device connection
 
-### 2️⃣ Tải xuống và cài đặt
-#### Cài đặt từ bản build sẵn:
-- Tải về file `.exe` từ [Releases](https://github.com/bingii98/rok-auto-farm-app/releases)
-- Chạy file cài đặt và làm theo hướng dẫn
+### 2️⃣ Download and Installation
+#### Install from pre-built version:
+- Download the `.exe` file from [Releases](https://github.com/bingii98/rok-auto-farm-app/releases)
+- Run the installer and follow the on-screen instructions
 
-## 🔄 Cập nhật tự động
-Mỗi khi có phiên bản mới, ứng dụng sẽ tự động tải và cập nhật.
+## 🔄 Automatic Updates
+The application will automatically download and update to the latest version whenever a new release is available.
 
-## 📌 Hướng dẫn sử dụng
-1. **Kết nối thiết bị với PC qua ADB** (`adb connect <IP thiết bị>`)
-2. **Mở ứng dụng và nhập tài khoản**
-3. **Chọn nhiệm vụ cần tự động hóa**
-4. **Nhấn Start để chạy bot**
+## 📌 How to Use
+1. **Connect your device to the PC using ADB** (`adb connect <device IP>`)
+2. **Launch the application and log in with your account**
+3. **Select the task you wish to automate**
+4. **Click Start to run the automation bot**
 
 ## 🛠️ Troubleshooting
-- **Không tìm thấy thiết bị?** Kiểm tra lại kết nối ADB (`adb devices`)
+- **Device not found?** Check your ADB connection with (`adb devices`)
 
-## 📢 Liên hệ
-Nếu gặp lỗi hoặc có góp ý, vui lòng tạo [issue](https://github.com/bingii98/rok-auto-farm-app/issues) trên GitHub.
+## 📢 Contact
+If you encounter any issues or have suggestions, please create an [issue](https://github.com/bingii98/rok-auto-farm-app/issues) on GitHub.
 
-📌 **Rok Auto Farm - Tự động hóa để chơi game nhàn hơn!** 🎮
-
+📌 **Rok Auto Farm - Automate your gameplay for a more relaxed gaming experience!** 🎮
