@@ -32,8 +32,6 @@ Mỗi khi có phiên bản mới, ứng dụng sẽ tự động tải và cập
 
 ## 🛠️ Troubleshooting
 - **Không tìm thấy thiết bị?** Kiểm tra lại kết nối ADB (`adb devices`)
-- **Ứng dụng không khởi động được?** Thử chạy `npm install` rồi `npm start`
-- **Lỗi khi build?** Kiểm tra lại biến môi trường `GH_TOKEN` khi publish
 
 ## 📢 Liên hệ
 Nếu gặp lỗi hoặc có góp ý, vui lòng tạo [issue](https://github.com/bingii98/rok-auto-farm-app/issues) trên GitHub.
