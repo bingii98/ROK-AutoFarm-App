@@ -1,40 +1,27 @@
-# Rok Auto Farm
+# ROK Auto Farm - Public Releases
 
-Rok Auto Farm is an application designed to automate tasks in the **Rise of Kingdoms** game. This app leverages **Electron.js** to offer a user-friendly graphical interface, enabling users to manage multiple accounts and automate in-game tasks.
+## Overview
+This repository contains public releases of the **ROK Auto Farm** application, designed to automate troop deployment for resource gathering in the game *Rise of Kingdoms (ROK)*.
 
-## 📌 Main Features
-- **Automatic building upgrades** 🏗️
-- **Automatic resource harvesting** ⛏️
-- **Automatic daily task completion** ✅
-- **Multi-account support** 👥
-- **Intuitive, easy-to-use interface** 🎨
-- **Automatic updates** 🔄
+## Features
+- Automated troop deployment for farming
+- Smart gathering logic to optimize resource collection
+- Integration with other ROK automation tools
+- Regular updates and improvements
 
-## 🚀 Installation Guide
+## Installation
+1. Download the latest release from the [Releases](https://github.com/bingii98/ROK-AutoFarm-App/releases) page.
+2. Extract the files and run the application.
 
-### 1️⃣ System Requirements
-- Windows 10/11 (64-bit)
-- **Node.js** and **npm** (or **yarn**)
-- **ADB (Android Debug Bridge)** for device connection
+## Usage
+- Follow the instructions provided in the documentation or within the app.
+- Ensure you have the necessary permissions for automation.
 
-### 2️⃣ Download and Installation
-#### Install from pre-built version:
-- Download the `.exe` file from [Releases](https://github.com/bingii98/rok-auto-farm-app/releases)
-- Run the installer and follow the on-screen instructions
+## Contribution
+Feel free to open issues or submit pull requests if you find any bugs or have feature suggestions.
 
-## 🔄 Automatic Updates
-The application will automatically download and update to the latest version whenever a new release is available.
+## License
+This project is licensed under the MIT License.
 
-## 📌 How to Use
-1. **Connect your device to the PC using ADB** (`adb connect <device IP>`)
-2. **Launch the application and log in with your account**
-3. **Select the task you wish to automate**
-4. **Click Start to run the automation bot**
-
-## 🛠️ Troubleshooting
-- **Device not found?** Check your ADB connection with (`adb devices`)
-
-## 📢 Contact
-If you encounter any issues or have suggestions, please create an [issue](https://github.com/bingii98/rok-auto-farm-app/issues) on GitHub.
-
-📌 **Rok Auto Farm - Automate your gameplay for a more relaxed gaming experience!** 🎮
+## Contact
+For support or inquiries, please contact [nguyengiang.dev476@gmail.com].
